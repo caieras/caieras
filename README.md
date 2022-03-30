@@ -1,8 +1,14 @@
-### Hi there 👋, i'm Caio.
+## Hi there 👋, i'm Caio.<br>
 
+<h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
-<h2 align="center">🛠 Tech Stack</h2>
-<p> text </p>
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 <h2 align="center">📝 Recent Projects</h2>
@@ -10,8 +16,8 @@
 #### [Moodmenu.me - The perfect food for your mood](https://github.com/leon-siqueira/rand-food-project)<br>
 Mood Menu is a responsive webapp that helps you with random restaurant suggestions based on location, restaurant ambiance, cuisine types, and other filters.<br>
 
-#### [Moodmenu.me - The perfect food for your mood](https://github.com/leon-siqueira/rand-food-project)<br>
-Mood Menu is a responsive webapp that helps you with random restaurant suggestions based on location, restaurant ambiance, cuisine types, and other filters.<br>
+#### [Patissehub - Patisserie Marketplace ](https://github.com/leon-siqueira/rand-food-project)<br>
+Patissehub is a marketplace for fine desserts, where professional or amateur chefs can take orders for their products. <br>
 
 
 <h2 align="center">📫 Get in touch!</h1>
@@ -32,22 +38,3 @@ Mood Menu is a responsive webapp that helps you with random restaurant suggestio
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caieras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caieras&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-
-  
-  
-  
-<!--
-**caieras/caieras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
