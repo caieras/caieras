@@ -16,7 +16,7 @@
 #### [Moodmenu.me - The perfect food for your mood](https://github.com/leon-siqueira/rand-food-project)<br>
 Mood Menu is a responsive webapp that helps you with random restaurant suggestions based on location, restaurant ambiance, cuisine types, and other filters.<br>
 
-#### [Patissehub - Patisserie Marketplace ](https://github.com/leon-siqueira/rand-food-project)<br>
+#### [Patissehub - Patisserie Marketplace ](https://github.com/leon-siqueira/patissehub)<br>
 Patissehub is a marketplace for fine desserts, where professional or amateur chefs can take orders for their products. <br>
 
 
