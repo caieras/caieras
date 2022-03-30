@@ -31,7 +31,6 @@ Patissehub is a marketplace for fine desserts, where professional or amateur che
 <hr>
 <br>
 
-### Stats:
  
 <div align="center">
   <a href="https://github.com/caieras">
