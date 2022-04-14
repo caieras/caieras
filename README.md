@@ -1,5 +1,8 @@
 ## Hi there, i'm Caio. 👋 <br>
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/86628124/163413403-70db079c-10f4-42cd-8f55-0f39f4311878.gif" />
+</div>
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -27,7 +30,6 @@ Patissehub is a marketplace for fine desserts, where professional or amateur che
   <a href="mailto:caio.asevedo@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-<br>
 <hr>
 <br>
 
