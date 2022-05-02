@@ -1,4 +1,4 @@
-## Hi there, i'm Caio. 👋 <br>
+## Hi there, i'm Caio 👋 <br>
 
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
